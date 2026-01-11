@@ -102,14 +102,6 @@ Artificial Intelligence has become a key driver of innovation in the financial s
 
 ---
 
-## 👤 Author
-
-**Panindra G**
-Electronics and Communication Engineering
-Interest Areas: Artificial Intelligence, FinTech, VLSI, and Embedded Systems
-
----
-
 ## 🏷️ Keywords
 
 Artificial Intelligence, Finance, FinTech, Machine Learning, Explainable AI, RegTech, Risk Management, Literature Review
