@@ -107,8 +107,9 @@ Artificial Intelligence has become a key driver of innovation in the financial s
 Artificial Intelligence, Finance, FinTech, Machine Learning, Explainable AI, RegTech, Risk Management, Literature Review
 -----------------------------------------------------------------------------------------------------------------------------------------
 [Application of ai in finance.pptx](https://github.com/user-attachments/files/24551520/Application.of.ai.in.finance.pptx)
+[ai_in_finance (5).pdf](https://github.com/user-attachments/files/24644299/ai_in_finance.5.pdf)
 
 
-[ai_in_finance.pdf](https://github.com/user-attachments/files/24551522/ai_in_finance.pdf)
+
 
 
